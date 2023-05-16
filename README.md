@@ -1,5 +1,5 @@
 # RestfulAPI_Nodejs_Mysql
-This repository contains a simple person website which views all people, adds person, deletes person and updates person form the mysql database using html, bootstap, javascript for the frontend and nodejs for the backend>
+This repository contains a simple person website which views all people, adds person, deletes person and updates person from the mysql database using html, bootstap, javascript for the frontend and nodejs for the backend
 ## Steps to run the application using docker-compose.yml file
 1- Run this command in the folder which contains the docker-compose.yml file `docker-compose up`
 
